@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a 8 years old son 
 
-<a href="https://app.daily.dev/rafaelcmotta"><img src="https://api.daily.dev/devcards/fdf66b34b52e4670bc755a61ccb507ce.png?r=9jd" width="400" alt="Rafael Motta's Dev Card"/></a>
+<a href="https://app.daily.dev/rafaelcmotta"><img src="https://github.com/rafaelcmotta/rafaelcmotta/blob/master/devcard.svg" width="400" alt="Rafael Motta's Dev Card"/></a>
