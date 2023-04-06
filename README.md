@@ -7,6 +7,6 @@
 - 💬 Ask me about AWS / IT Governance / IT Management / Sales and Prospecting - these are not new to me.
 - 📫 How to reach me: [twitter.com/rafaeldw](https://twitter.com/rafaeldw) or [linkedin.com/in/rafaelcmotta](https://www.linkedin.com/in/rafaelcmotta)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a 9 years old son and a newborn girl
+- ⚡ Fun fact: I have a 10 years old son and a 1 year old girl
 
 <a href="https://app.daily.dev/rafaelcmotta"><img src="https://github.com/rafaelcmotta/rafaelcmotta/blob/master/devcard.svg" width="400" alt="Rafael Motta's Dev Card"/></a>
