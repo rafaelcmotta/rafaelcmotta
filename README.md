@@ -11,4 +11,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a 10 years old son and a 1 year old girl
 
-<a href="https://app.daily.dev/rafaelcmotta"><img src="https://github.com/rafaelcmotta/rafaelcmotta/blob/master/devcard.svg" width="400" alt="Rafael Motta's Dev Card"/></a>
+<a href="https://app.daily.dev/rafaelcmotta"><img src="https://api.daily.dev/devcards/v2/QaUl0yLHX.png?r=vj6&type=default" width="356" alt="Rafael Motta's Dev Card"/></a>
